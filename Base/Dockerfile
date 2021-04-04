@@ -1,4 +1,4 @@
-FROM ubuntu:focal-20201106
+FROM ubuntu:groovy-20210325
 LABEL authors="Selenium <selenium-developers@googlegroups.com>"
 
 #================================================
